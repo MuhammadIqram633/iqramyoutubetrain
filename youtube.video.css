@@ -1,0 +1,64 @@
+
+            body{
+               margin: 0px;
+               padding: 60px;
+            }
+            .one {
+                display: inline-block;
+                width: 300px;
+                margin-top: 20px;
+                margin-right: 18px;
+                vertical-align: top;
+            }
+            .Thumb {
+                width: 300px;
+                display: block;
+            }
+            .Title {
+                font-size: 16px;
+                font-family: Roboto, Arial, Helvetica, sans-serif;
+                margin-top: 0px;
+                margin-bottom: 8px;
+            }
+            .Channel {
+                font-size: 14px;
+                color: #666;
+                margin-top: 0px;
+                margin-bottom: 4px;
+                font-family: Roboto, Arial, Helvetica, sans-serif;
+            }
+            .Stats {
+                font-size: 12px;
+                margin-top: 0px;
+                margin-bottom: 0px;
+                color: #666;
+                font-family: Roboto, Arial, Helvetica, sans-serif;
+            }
+            .r1 {
+                margin-top: 10px;
+                display:grid;
+                grid-template-columns: 50px 1fr;
+            }
+            .channel-pic {
+                display: inline-block;
+                width: 45px;
+                vertical-align: top;
+            }
+            .c1 {
+                border-radius: 50%;
+                width: 36px;
+                display: block;
+            }
+            .video-info {
+                display: inline-block;
+                width: 245px;
+                vertical-align: top;
+            }
+            .Grid{
+                display:grid;
+                grid-template-columns: 1fr 1fr 1fr 1fr;
+            }
+            .cursor{
+                cursor: pointer;
+               size: 20px;
+            }
